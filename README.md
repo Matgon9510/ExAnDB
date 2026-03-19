@@ -1,1 +1,9 @@
 # ExAnDB
+## 190304018-1 ANÁLISIS DE DATOS 2026-1
+
+### Segunda evaluación
+
+### Integrantes:
+#### JESSICA JOHANNA OBANDO GARC�A
+#### MATEO GONZALEZ ESCUDERO
+#### LUKAS JIMENEZ BUENO

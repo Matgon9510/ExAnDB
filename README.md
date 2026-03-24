@@ -97,3 +97,10 @@ Los análisis multivariados muestran que variables como `hours-per-week` y `capi
 El análisis de correlación indica que no existen relaciones lineales fuertes entre la mayoría de variables numéricas, lo que sugiere que el ingreso depende de múltiples factores y no de una sola variable dominante.
 
 ---
+
+# Conclusiones
+
+### - Se logró seleccionar una base de datos adecuada mediante criterios técnicos
+### - El análisis exploratorio de una base de datos permitie identificar problemas de calidad y patrones relevantes. 
+### - El preprocesamiento permite dejar los datos listos para modelado
+### Este proyecto demuestra la importancia de entender los datos antes de aplicar cualquier modelo, ya que una buena preparación impacta directamente en los resultados.
